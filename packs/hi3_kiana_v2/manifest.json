@@ -1,0 +1,130 @@
+{
+  "name": "hi3_kiana_v2",
+  "display_name": "Kiana (HI3) V2",
+  "categories": {
+    "greeting": {
+      "sounds": [
+        {
+          "file": "GreetingWelcome.wav",
+          "line": "欢迎回来。"
+        },
+        {
+          "file": "GreetingListen.wav",
+          "line": "喂，你有在听吗？"
+        },
+        {
+          "file": "GreetingReady.wav",
+          "line": "Kiana 准备出击。"
+        }
+      ]
+    },
+    "acknowledge": {
+      "sounds": [
+        {
+          "file": "AckUnderstand.wav",
+          "line": "我明白了。"
+        },
+        {
+          "file": "AckKnow.wav",
+          "line": "我知道了。"
+        },
+        {
+          "file": "AckRoger.wav",
+          "line": "嗯，出发吧。"
+        },
+        {
+          "file": "AckOnIt.wav",
+          "line": "好啦，我来当你的助手。"
+        },
+        {
+          "file": "AckReady.wav",
+          "line": "嗯，我已经准备好了。"
+        }
+      ]
+    },
+    "complete": {
+      "sounds": [
+        {
+          "file": "CompleteDone.wav",
+          "line": "嗯，搞定了。"
+        },
+        {
+          "file": "CompleteFound.wav",
+          "line": "找到了。"
+        },
+        {
+          "file": "CompleteFinished.wav",
+          "line": "有惊无险。"
+        }
+      ]
+    },
+    "error": {
+      "sounds": [
+        {
+          "file": "ErrorTooSlow.wav",
+          "line": "你们太慢了。"
+        },
+        {
+          "file": "ErrorStop.wav",
+          "line": "到此为止了吗？"
+        },
+        {
+          "file": "ErrorNotWorking.wav",
+          "line": "怎么会不起作用……"
+        },
+        {
+          "file": "ErrorTryAgain.wav",
+          "line": "没关系，再试一次。"
+        }
+      ]
+    },
+    "permission": {
+      "sounds": [
+        {
+          "file": "PermissionAsk.wav",
+          "line": "你问吧。"
+        },
+        {
+          "file": "PermissionNeedHelp.wav",
+          "line": "怎么样，需要帮忙吗？"
+        },
+        {
+          "file": "PermissionNeedWhat.wav",
+          "line": "那我需要做什么吗？"
+        },
+        {
+          "file": "PermissionConfirm.wav",
+          "line": "诶？是这样吗？"
+        }
+      ]
+    },
+    "resource_limit": {
+      "sounds": [
+        {
+          "file": "ResourcePaused.wav",
+          "line": "游戏已暂停。"
+        }
+      ]
+    },
+    "annoyed": {
+      "sounds": [
+        {
+          "file": "AnnoyedSleepy.wav",
+          "line": "你再不行动的话，我都要睡着了。"
+        },
+        {
+          "file": "AnnoyedDontUnderestimate.wav",
+          "line": "我突然很想揍旁白一顿。"
+        },
+        {
+          "file": "AnnoyedOnlyThis.wav",
+          "line": "要比比谁更快吗？"
+        },
+        {
+          "file": "AnnoyedRidiculous.wav",
+          "line": "这也太离谱了吧。"
+        }
+      ]
+    }
+  }
+}
