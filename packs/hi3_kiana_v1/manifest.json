@@ -1,0 +1,114 @@
+{
+  "name": "hi3_kiana_v1",
+  "display_name": "Kiana (HI3) V1",
+  "categories": {
+    "greeting": {
+      "sounds": [
+        {
+          "file": "GreetingListen.wav",
+          "line": "喂，你有在听吗？"
+        },
+        {
+          "file": "GreetingBack.wav",
+          "line": "嗨，我回来了。"
+        },
+        {
+          "file": "GreetingAdvance.wav",
+          "line": "我来为你们开辟前路。"
+        }
+      ]
+    },
+    "acknowledge": {
+      "sounds": [
+        {
+          "file": "AckUnderstand.wav",
+          "line": "我明白了。"
+        },
+        {
+          "file": "AckKnow.wav",
+          "line": "我知道了。"
+        },
+        {
+          "file": "AckRoger.wav",
+          "line": "嗯，了解。"
+        },
+        {
+          "file": "AckOnIt.wav",
+          "line": "没问题，交给我吧。"
+        }
+      ]
+    },
+    "complete": {
+      "sounds": [
+        {
+          "file": "CompleteDone.wav",
+          "line": "嗯，搞定了。"
+        },
+        {
+          "file": "CompleteSuccess.wav",
+          "line": "已经整合成功了。"
+        },
+        {
+          "file": "CompleteFinished.wav",
+          "line": "这样就算彻底结束了吧。"
+        }
+      ]
+    },
+    "error": {
+      "sounds": [
+        {
+          "file": "ErrorStop.wav",
+          "line": "到此为止了吗？"
+        },
+        {
+          "file": "ErrorAlert.wav",
+          "line": "我不会小看敌人。"
+        },
+        {
+          "file": "ErrorTooSlow.wav",
+          "line": "你们太慢了。"
+        }
+      ]
+    },
+    "permission": {
+      "sounds": [
+        {
+          "file": "PermissionHelp.wav",
+          "line": "怎么样，需要帮忙吗？"
+        },
+        {
+          "file": "PermissionNext.wav",
+          "line": "有什么接下来想做的事吗？"
+        },
+        {
+          "file": "PermissionConfirm.wav",
+          "line": "诶？是这样吗？"
+        }
+      ]
+    },
+    "resource_limit": {
+      "sounds": [
+        {
+          "file": "ResourceTooSlow.wav",
+          "line": "你们太慢了。"
+        }
+      ]
+    },
+    "annoyed": {
+      "sounds": [
+        {
+          "file": "AnnoyedSleepy.wav",
+          "line": "你再不行动的话，我都要睡着了。"
+        },
+        {
+          "file": "AnnoyedDontUnderestimate.wav",
+          "line": "别小瞧我，人总是会成长的。"
+        },
+        {
+          "file": "AnnoyedTease.wav",
+          "line": "你又笑我，明明没说错吗？"
+        }
+      ]
+    }
+  }
+}

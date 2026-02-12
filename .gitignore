@@ -4,3 +4,5 @@ node_modules/
 video/out/
 firebase-debug.log
 .claude/
+kiana/
+.DS_Store
