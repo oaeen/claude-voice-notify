@@ -6,11 +6,11 @@
       "sounds": [
         {
           "file": "GreetingWelcome.wav",
-          "line": "欢迎回来。"
+          "line": "早上好，今天也是和平的一天呢。"
         },
         {
           "file": "GreetingListen.wav",
-          "line": "喂，你有在听吗？"
+          "line": "真巧，又见面了。"
         },
         {
           "file": "GreetingReady.wav",
